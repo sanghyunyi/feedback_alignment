@@ -1,4 +1,4 @@
-# Direct_Feedback_Alignment
+# Direct Feedback Alignment
 
 Tensorflow implementation of [Direct feedback Alignment Provides Learning in Deep Neural Networks](https://arxiv.org/abs/1609.01596).
 
