@@ -4,4 +4,6 @@
 
 * [DataDownload.ipynb](https://github.com/sangyi92/Direct_Feedback_Alignment/blob/master/DataDownload.ipynb) is for downloading notMNIST data. This code is from the [Tensorflow Udacity source code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb)
 
-* [DFA.ipynb](https://github.com/sangyi92/Direct_Feedback_Alignment/blob/master/DFA.ipynb) is the implementation of Direct feedback Alignment.
+* [DFA.ipynb](https://github.com/sangyi92/Direct_Feedback_Alignment/blob/master/DFA.ipynb) is the implementation of [Direct feedback Alignment](https://arxiv.org/abs/1609.01596).
+
+* [RFA.ipynb](https://github.com/sangyi92/Direct_Feedback_Alignment/blob/master/RFA.ipynb) is the implementation of [Random feedback Alignment](http://www.nature.com/articles/ncomms13276).
